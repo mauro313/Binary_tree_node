@@ -140,7 +140,7 @@ int btn_count(btn_t* node){
 }
 
 /**
- * @brief search a element in a tree node. Return the reference if the element exist and NULL otherwise.
+ * @brief search an element in a tree node. Return the reference if the element exist and NULL otherwise.
  * 
  * @param root 
  * @param value 
